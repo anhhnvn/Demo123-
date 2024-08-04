@@ -1,0 +1,10 @@
+D:\C shap\BillWater\BillWater\bin\Debug\BillWater.exe.config
+D:\C shap\BillWater\BillWater\bin\Debug\BillWater.exe
+D:\C shap\BillWater\BillWater\bin\Debug\BillWater.pdb
+D:\C shap\BillWater\BillWater\obj\Debug\BillWater.csproj.AssemblyReference.cache
+D:\C shap\BillWater\BillWater\obj\Debug\BillWater.Form1.resources
+D:\C shap\BillWater\BillWater\obj\Debug\BillWater.Properties.Resources.resources
+D:\C shap\BillWater\BillWater\obj\Debug\BillWater.csproj.GenerateResource.cache
+D:\C shap\BillWater\BillWater\obj\Debug\BillWater.csproj.CoreCompileInputs.cache
+D:\C shap\BillWater\BillWater\obj\Debug\BillWater.exe
+D:\C shap\BillWater\BillWater\obj\Debug\BillWater.pdb
